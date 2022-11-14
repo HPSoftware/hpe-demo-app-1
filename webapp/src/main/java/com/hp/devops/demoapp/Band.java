@@ -6,12 +6,12 @@ import java.security.InvalidParameterException;
 
 /**fff111
  * Created with IntelliJ IDEA.
- * User: gullery
+ * User: gullery abcd
  * Date: 24/12/14
  * Time: 10:03
  * To change this template use File | Settings | File Templates.
  * One comment edited
- * Second comment edited
+ * Second comment editedl;;ko[oy
  */
 public class Band {
 	public int id;
